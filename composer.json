@@ -1,5 +1,5 @@
 {
-  "name": "blobfolio\/blob-domain",
+  "name": "londry\/blob-domain",
   "description": "Parse and validate domain names.",
   "keywords": [
     "PHP",
